@@ -1,6 +1,10 @@
 # SimpleLipSync
 通过语音驱动嘴型，输出BlenderShape 52keys，当前使用了5个表情，即"jawOpen", "mouthFunnel","mouthPucker", "mouthRollUpper", "mouthRollLower"
 
+
+https://user-images.githubusercontent.com/108171388/175798477-f57b6272-68e7-4a7c-9434-05763b734b0e.mp4
+
+
 ## 特点
 1.实时预测，可用于直播场景
 

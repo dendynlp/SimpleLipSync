@@ -3,8 +3,7 @@
 
 
 
-<iframe width=640 height=480  align="center" src="https://user-images.githubusercontent.com/108171388/175798477-f57b6272-68e7-4a7c-9434-05763b734b0e.mp4" allowfullscreen></iframe>
-
+https://user-images.githubusercontent.com/108171388/175798477-f57b6272-68e7-4a7c-9434-05763b734b0e.mp4
 
 ## 特点
 1.实时预测，可用于直播场景
